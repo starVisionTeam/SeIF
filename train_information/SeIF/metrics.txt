@@ -1,0 +1,6 @@
+Metrics
+
+Epoch-0 | eval test MSE: 0.026196 IOU: 0.929448 prec: 0.946809 recall: 0.980945  ||  Epoch-0 | eval train MSE: 0.029576 IOU: 0.920960 prec: 0.947516 recall: 0.969511
+Epoch-1 | eval test MSE: 0.021681 IOU: 0.940685 prec: 0.962093 recall: 0.977037  ||  Epoch-1 | eval train MSE: 0.020761 IOU: 0.943397 prec: 0.964756 recall: 0.976412
+Epoch-2 | eval test MSE: 0.021275 IOU: 0.941918 prec: 0.980999 recall: 0.959526  ||  Epoch-2 | eval train MSE: 0.023110 IOU: 0.936736 prec: 0.978475 recall: 0.955651
+Epoch-3 | eval test MSE: 0.015936 IOU: 0.958080 prec: 0.971668 recall: 0.985689  ||  Epoch-3 | eval train MSE: 0.013593 IOU: 0.963519 prec: 0.975655 recall: 0.986856
