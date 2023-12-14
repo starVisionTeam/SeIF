@@ -2,4 +2,7 @@
 #### <p align="center">Leyuan Liu, Xu Liu, Jianchi Sun, Changxin Gao, Jingying Chen</p>
 ***
 ## Networks
-liu
+![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/network.png)
+***
+## Results
+
