@@ -5,5 +5,5 @@
 ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/network.png)
 ***
 ## Results
-![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/2.gif)
+![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/final.gif)
 
