@@ -16,9 +16,24 @@ The train dataset is available for non-commercial or research use only, we will 
 </br>
 ***
 ## MORE VISUALIZATION RESULTS
-We compare our method with eight state-of-the-art methods that have publicly released codes: PRNet, Deep3D, 3DDFAV2, MGCNet, DECA, Hifi3dface, MICA, and EMOCA.</br>
+We compare our method with eight state-of-the-art methods that have publicly released codes: [PRNet](https://github.com/yfeng95/PRNet), [Deep3D](https://github.com/microsoft/Deep3DFaceReconstruction), [3DDFAV2](https://github.com/cleardusk/3DDFA_V2), [MGCNet](https://github.com/jiaxiangshang/MGCNet), [DECA](https://github.com/yfeng95/DECA), [Hifi3dface](https://github.com/tencent-ailab/hifi3dface), [MICA](https://github.com/Zielon/MICA), and [EMOCA](https://github.com/radekd91/emoca).</br>
 ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/1-more.png)
 <p align="center">Figure: Reconstruction results produced by different methods on the FamousFace datasets.</p>
+
 ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/2-more.png)
 <p align="center">Figure: Reconstruction results produced by different methods on the KidFace datasets.</p>
 
+![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/3-more.png)
+<p align="center">Figure: Reconstruction results produced by different methods on the FaceScape datasets.</p>
+
+![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/4-more.png)
+<p align="center">Figure: Reconstruction results produced by different methods on the CoMa datasets.</p>
+
+![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/5-more.png)
+<p align="center">Figure: Reconstruction results produced by different methods on the HeadSpace datasets.</p>
+
+![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/6-more.png)
+<p align="center">Figure: Reconstruction results produced by different methods on the FaceVerse datasets.</p>
+
+![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/7-more.png)
+<p align="center">Figure: Reconstruction results produced by different methods on the I3DMM datasets.</p>
