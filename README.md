@@ -1,7 +1,7 @@
 # <p align="center">SeIF: Semantic-constrained Deep Implicit Function for Single-image 3D Head Reconstruction</p>
 #### <p align="center">Leyuan Liu, Xu Liu, Jianchi Sun, Changxin Gao, Jingying Chen</p>
 ***
-![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/final.gif)
+![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/final2.gif)
 
 This repository includes Training code and testing code of our paper. It also contains some reconstruction results. Note that all of the results can be only used for research purposes.
 ***
