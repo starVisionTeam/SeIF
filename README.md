@@ -16,4 +16,9 @@ The train dataset is available for non-commercial or research use only, we will 
 </br>
 ***
 ## MORE VISUALIZATION RESULTS
-We compare our method with eight state-of-the-art methods that have publicly released codes: PRNet, Deep3D, 3DDFAV2, MGCNet, DECA, Hifi3dface, MICA, and EMOCA.
+We compare our method with eight state-of-the-art methods that have publicly released codes: PRNet, Deep3D, 3DDFAV2, MGCNet, DECA, Hifi3dface, MICA, and EMOCA.</br>
+![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/1-more.png)
+<p align="center">Figure: Reconstruction results produced by different methods on the FamousFace datasets.</p>
+![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/2-more.png)
+<p align="center">Figure: Reconstruction results produced by different methods on the KidFace datasets.</p>
+
