@@ -10,10 +10,10 @@ We provide test code and pre-trained models. After installing the packages requi
 ```objpython
 python main_test.py
 ```
-This code inputs the picture in the demo folder and outputs the 3D head model reconstructed from this picture. The corresponding results are saved in a demo folder, such as 1.obj. You can download meshlab to view 3D models.</br>
+This code inputs the picture in the demo folder and outputs the 3D head model reconstructed from this picture. The corresponding results are saved in a demo folder. Such as input: demo/1.png, output: demo/1.obj. You can download [meshlab](https://www.meshlab.net/#download) to view 3D models.</br>
 </br>
 The train dataset is available for non-commercial or research use only, we will publish the training code and training data through email application. My email is xliu@mails.ccnu.edu.cn.
 </br>
 ***
 ## MORE VISUALIZATION RESULTS
-
+We compare our method with eight state-of-the-art methods that have publicly released codes: PRNet, Deep3D, 3DDFAV2, MGCNet, DECA, Hifi3dface, MICA, and EMOCA.
