@@ -6,6 +6,7 @@
 This repository includes Training code and testing code of our paper. It also contains some reconstruction results. Note that all of the results can be only used for research purposes.
 ***
 ## Demos
+This code has been tested with PyTorch 1.4.0 and CUDA 10.1. on Ubuntu 18.04.
 We provide test code and pre-trained models. After installing the packages required for the project, run the following code:</br>
 ```objpython
 python main_test.py
@@ -37,3 +38,7 @@ We compare our method with eight state-of-the-art methods that have publicly rel
 
 ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/7-more.png)
 <p align="center">Figure: Reconstruction results produced by different methods on the I3DMM datasets.</p>
+
+***
+## Contact
+The code is released, but not complete. We are still updating it. If you have any trouble when using this repo, please do not hesitate to send an E-mail to Xu Liu(xliu@mails.ccnu.edu.cn)
