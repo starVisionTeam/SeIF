@@ -41,4 +41,4 @@ We compare our method with eight state-of-the-art methods that have publicly rel
 
 ***
 ## Contact
-The code is released, but not complete. We are still updating it. If you have any trouble when using this repo, please do not hesitate to send an E-mail to Xu Liu(xliu@mails.ccnu.edu.cn)
+The code is released. And we are still updating it. If you have any trouble when using this repo, please do not hesitate to send an E-mail to Xu Liu(xliu@mails.ccnu.edu.cn)
