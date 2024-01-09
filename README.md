@@ -17,7 +17,7 @@ This code inputs the picture in the demo folder and outputs the 3D head model re
 </br>
 
 ***
-## MORE VISUALIZATION RESULTS
+## VISUALIZATION RESULTS
 We compare our method with eight state-of-the-art methods that have publicly released codes: [PRNet](https://github.com/yfeng95/PRNet), [Deep3D](https://github.com/microsoft/Deep3DFaceReconstruction), [3DDFAV2](https://github.com/cleardusk/3DDFA_V2), [MGCNet](https://github.com/jiaxiangshang/MGCNet), [DECA](https://github.com/yfeng95/DECA), [Hifi3dface](https://github.com/tencent-ailab/hifi3dface), [MICA](https://github.com/Zielon/MICA), and [EMOCA](https://github.com/radekd91/emoca).</br>
 ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/1-more.png)
 <p align="center">Figure 1: Reconstruction results produced by different methods on the FamousFace datasets.</p>
@@ -40,8 +40,11 @@ We compare our method with eight state-of-the-art methods that have publicly rel
 ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/7-more.png)
 <p align="center">Figure 7: Reconstruction results produced by different methods on the I3DMM datasets.</p>
 
+![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/consistency.png)
+<p align="center">Figure 8: Reconstructed 3D heads for the same subjects across different facial expressions.</p>
+
 ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/animationFinal3.png)
-<p align="center">Figure 8: Results of model animation on the in-the-wild FamousFace and kidFace datasets. Given the pose and expression parameters estimated from the target
+<p align="center">Figure 9: Results of model animation on the in-the-wild FamousFace and kidFace datasets. Given the pose and expression parameters estimated from the target
 image, we can easily animate our reconstructed mesh to “copy” the jaw pose and expression of the target images using FLAME.</p>
 
 
