@@ -5,7 +5,7 @@
 
 ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/final2.gif)
 
-This repository includes Training code and testing code of our paper. It also contains some reconstruction results. Note that all of the results can be only used for research purposes.
+This repository includes code and some reconstruction results of our paper. Note that all of the code and results can be only used for research purposes.
 ***
 ## Demos
 This code has been tested with PyTorch 1.4.0 and CUDA 10.1. on Ubuntu 18.04.
@@ -23,22 +23,27 @@ We compare our method with eight state-of-the-art methods that have publicly rel
 <p align="center">Figure: Reconstruction results produced by different methods on the FamousFace datasets.</p>
 
 ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/2-more.png)
-<p align="center">Figure: Reconstruction results produced by different methods on the KidFace datasets.</p>
+<p align="center">Figure 1: Reconstruction results produced by different methods on the KidFace datasets.</p>
 
 ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/3-more.png)
-<p align="center">Figure: Reconstruction results produced by different methods on the FaceScape datasets.</p>
+<p align="center">Figure 2: Reconstruction results produced by different methods on the FaceScape datasets.</p>
 
 ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/4-more.png)
-<p align="center">Figure: Reconstruction results produced by different methods on the CoMa datasets.</p>
+<p align="center">Figure 3: Reconstruction results produced by different methods on the CoMa datasets.</p>
 
 ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/5-more.png)
-<p align="center">Figure: Reconstruction results produced by different methods on the HeadSpace datasets.</p>
+<p align="center">Figure 4: Reconstruction results produced by different methods on the HeadSpace datasets.</p>
 
 ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/6-more.png)
-<p align="center">Figure: Reconstruction results produced by different methods on the FaceVerse datasets.</p>
+<p align="center">Figure 5: Reconstruction results produced by different methods on the FaceVerse datasets.</p>
 
 ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/7-more.png)
-<p align="center">Figure: Reconstruction results produced by different methods on the I3DMM datasets.</p>
+<p align="center">Figure 6: Reconstruction results produced by different methods on the I3DMM datasets.</p>
+
+![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/animationFinal3.png)
+<p align="center">Figure 7: Results of model animation on the in-the-wild FamousFace and kidFace datasets. Given the pose and expression parameters estimated from the target
+image, we can easily animate our reconstructed mesh to “copy” the jaw pose and expression of the target images using FLAME.</p>
+
 
 ***
 ## Contact
