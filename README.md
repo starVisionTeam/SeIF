@@ -43,6 +43,7 @@ We compare our method with eight state-of-the-art methods that have publicly rel
 ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/consistency.png)
 <p align="center">Figure 8: Reconstructed 3D heads for the same subjects across different facial expressions.</p>
 
+#Animation
 ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/animationFinal3.png)
 <p align="center">Figure 9: Results of model animation on the in-the-wild FamousFace and kidFace datasets. Given the pose and expression parameters estimated from the target
 image, we can easily animate our reconstructed mesh to “copy” the jaw pose and expression of the target images using FLAME.</p>
