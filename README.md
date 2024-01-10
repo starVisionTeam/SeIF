@@ -49,7 +49,7 @@ We compare our method with eight state-of-the-art methods that have publicly rel
 image, we can easily animate our reconstructed mesh to “copy” the jaw pose and expression of the target images using FLAME.</p>
 
 
-## 3D Print Works
+## 3D Printed Works
 ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/3Dprint-new.gif)
 
 <p align="left"> We printed several reconstructed heads using a toy-grade 3D printer (purchased for approximately 100 USD). The flaws on the 3D-printed works were mainly caused by the low precision of the printer. By using a higher-precision 3D printer, we can avoid these flaws.</p>
