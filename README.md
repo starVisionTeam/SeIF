@@ -51,7 +51,6 @@ image, we can easily animate our reconstructed mesh to “copy” the jaw pose a
 
 ## 3D Print Works
 ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/2_3DPrint.mp4)
-2_3DPrint.mp4
 
 
 ***
