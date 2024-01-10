@@ -51,7 +51,7 @@ image, we can easily animate our reconstructed mesh to “copy” the jaw pose a
 
 ## 3D Print Works
 ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/3Dprint-new.gif)
-
+We printed several reconstructed heads using a toy-grade 3D printer. The flaws on the 3D-printed works were mainly caused by the low precision of the printer. By using a higher-precision 3D printer, we can avoid these flaws.
 
 ***
 ## Contact
