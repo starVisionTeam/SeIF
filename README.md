@@ -49,6 +49,11 @@ We compare our method with eight state-of-the-art methods that have publicly rel
 image, we can easily animate our reconstructed mesh to “copy” the jaw pose and expression of the target images using FLAME.</p>
 
 
+## 3D Print Works
+![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/2_3DPrint.mp4)
+2_3DPrint.mp4
+
+
 ***
 ## Contact
 The code is released. And we are still updating it. If you have any trouble when using this repo, please do not hesitate to send an E-mail to Xu Liu(xliu@mails.ccnu.edu.cn)
