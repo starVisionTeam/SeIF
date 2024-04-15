@@ -21,7 +21,7 @@ This code inputs the picture in the demo folder and outputs the 3D head model re
 </br>
 
 ***
-## RESULTS
+## Results
 We compare our method with eight state-of-the-art methods that have publicly released codes: [PRNet](https://github.com/yfeng95/PRNet), [Deep3D](https://github.com/microsoft/Deep3DFaceReconstruction), [3DDFAV2](https://github.com/cleardusk/3DDFA_V2), [MGCNet](https://github.com/jiaxiangshang/MGCNet), [DECA](https://github.com/yfeng95/DECA), [Hifi3dface](https://github.com/tencent-ailab/hifi3dface), [MICA](https://github.com/Zielon/MICA), and [EMOCA](https://github.com/radekd91/emoca).</br>
 ![](https://github.com/starVisionTeam/SeIF/blob/master/lib/data/1-more.png)
 <p align="center">Figure 1: Reconstruction results produced by different methods on the FamousFace datasets.</p>
