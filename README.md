@@ -18,7 +18,8 @@ Please consider citing the paper if you find the code useful in your research.
   journal = IEEE Transactions on Multimedia (TMM), 
   title = {SeIF: Semantic-constrained Deep Implicit Function for Single-image 3D Head Reconstruction}, 
   year = {2024},
-  pages = {1-15}
+  pages = {1-15},
+  DOI = {10.1109/TMM.2024.3405721}
 }
 ```
 
