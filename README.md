@@ -73,7 +73,7 @@ image, we can easily animate our reconstructed mesh to “copy” the jaw pose a
 <p align="left"> We printed several reconstructed heads using a toy-grade 3D printer (purchased for approximately 100 USD). The flaws on the 3D-printed works were mainly caused by the low precision of the printer. By using a higher-precision 3D printer, we can avoid these flaws.</p>
 
 ## Acknowledgements
-We thank the authors for their great job!
+We benefit from some external sources: [DECA](https://github.com/yfeng95/DECA), and [FLAME](https://github.com/soubhiksanyal/FLAME_PyTorch). We thank the authors for their great job!
 
 ***
 
