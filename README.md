@@ -38,6 +38,7 @@ This code inputs the picture in the demo folder and outputs the 3D head model re
 The pre-trained normal estimation model can be downloaded from
 ```
 ```
+Access code:
 
 ***
 ## Results
