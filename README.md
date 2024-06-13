@@ -40,6 +40,7 @@ We put the pre-trained normal estimation Code in
 https://github.com/sama0626/Head_normal/tree/master
 ```
 The pre-trained normal estimation model can be downloaded from [https://pan.baidu.com/s/1ay8g8qRWZ0Uw_i2kXOAWWg](https://pan.baidu.com/s/1ay8g8qRWZ0Uw_i2kXOAWWg)
+
 Access code: SeIF
 
 ***
