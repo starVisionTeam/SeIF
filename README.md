@@ -15,8 +15,8 @@ Please consider citing the paper if you find the code useful in your research.
 ```
 @article{SeIF_TMM2024,
   author = {Liu, Leyuan and Liu, Xu and Sun, Jianchi and Gao, Changxin and Chen, Jingying},
-  journal = IEEE Transactions on Multimedia (TMM), 
-  title = {SeIF: Semantic-constrained Deep Implicit Function for Single-image 3D Head Reconstruction}, 
+  journal = {IEEE Transactions on Multimedia (TMM)}, 
+  title = {{SeIF}: Semantic-constrained Deep Implicit Function for Single-image 3D Head Reconstruction}, 
   year = {2024},
   pages = {1-15},
   DOI = {10.1109/TMM.2024.3405721}
@@ -32,6 +32,8 @@ We provide test code and pre-trained models. After installing the packages requi
 python main_test.py
 ```
 This code inputs the picture in the demo folder and outputs the 3D head model reconstructed from this picture. The corresponding results are saved in a demo folder. Such as input: demo/1.png, output: demo/1.obj. You can download [meshlab](https://www.meshlab.net/#download) to view 3D models.</br>
+
+We recommend using front-view, glasses-free facial images with a resolution higher than 512x512 as input.
 </br>
 
 ## Pre-trained Normal Estimation Model
