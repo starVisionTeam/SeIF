@@ -18,11 +18,12 @@ Please consider citing the paper if you find the code useful in your research.
   journal = {IEEE Transactions on Multimedia (TMM)}, 
   title = {{SeIF}: Semantic-constrained Deep Implicit Function for Single-image 3D Head Reconstruction}, 
   year = {2024},
-  pages = {1-15},
+  volume = {26}
+  pages = {10106-10120},
   DOI = {10.1109/TMM.2024.3405721}
 }
 ```
-The early access version can be downloaded from [https://ieeexplore.ieee.org/document/10539280](https://ieeexplore.ieee.org/document/10539280)
+The paper can be downloaded from [https://ieeexplore.ieee.org/document/10539280](https://ieeexplore.ieee.org/document/10539280)
 
 
 ## Demos
